@@ -8,7 +8,7 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
-					"message": "This is a test failur",
+					"message": "This is a test failure",
 					"errorCode": "400"
 				}
 			}
